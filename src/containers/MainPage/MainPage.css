@@ -1,0 +1,59 @@
+.banner {
+  min-height: 600px;
+  background: url(https://p.w3layouts.com/demos/port/web/images/banner.jpg) 100% 100% no-repeat;
+}
+
+.banner-wrapper {
+  position: absolute;
+  top: 10em;
+  width: 100%;
+}
+
+.banner h2 { 
+  font-size: 4em;
+  color: #fff;
+  font-weight: 100;
+  width: 61%;
+  margin: 0 auto;
+  padding: 0 0 1em;
+  line-height: 1.2em;
+}
+
+.about {
+  text-align: center;
+  background: #f2f2f2;
+  padding: 4em 0;
+}
+
+.about h3 {
+  color: #000;
+  font-size: 2.8em;
+  font-weight: 300;
+}
+
+.about p:first-child {
+  font-size: 1.8em;
+  line-height: 1.5em;
+  font-weight: 200;
+  width: 80%;
+}
+
+.about p {
+  color: #000;
+    font-size: 1.1em;
+    line-height: 1.7em;
+    margin: 0 auto;
+    width: 68%;
+    font-weight: 300;
+    padding: 1.1em 0;
+}
+
+.footer {
+  background-color: #343a40;
+  padding: 2em 0;
+  text-align: center;
+}
+
+.footer p {
+  color: rgba(255,255,255,.5);
+}

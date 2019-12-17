@@ -1,0 +1,13 @@
+
+table {
+  width: 60%;
+  border: solid 2px #daca0a;
+  color: #daca0a;
+}
+table td{
+  border-right: 2px solid #daca0a;
+  background-color: #343a40;
+}
+.bgr {
+ background-color: #c55e5e;
+}

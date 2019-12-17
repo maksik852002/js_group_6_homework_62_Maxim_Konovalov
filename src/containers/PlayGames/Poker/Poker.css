@@ -1,0 +1,7 @@
+
+.playingCards label.card:hover {
+ bottom: 0em;
+}
+.table { 
+  background: url(/static/media/pokerTable.52519593.jpg) 50%/185% no-repeat
+}
